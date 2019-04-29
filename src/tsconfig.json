@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": true,
+    "listFiles": true,
+    "target": "es5",
+    "outFile": "../bin/gantt.js"
+  },
+  "include": [
+    "./**/*"
+  ],
+  "compileOnSave": true
+}

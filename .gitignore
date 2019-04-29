@@ -1,0 +1,8 @@
+# Build results
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+
+# Visual Studio
+.vs/
+.vscode/
